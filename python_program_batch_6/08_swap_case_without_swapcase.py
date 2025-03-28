@@ -12,3 +12,4 @@ for char in user_input:
         result += char
 
 # Print the result
+print(result)
