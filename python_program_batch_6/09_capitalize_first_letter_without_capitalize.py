@@ -10,3 +10,4 @@ else:
     result = ""
 
 # Print the result
+print(result)
