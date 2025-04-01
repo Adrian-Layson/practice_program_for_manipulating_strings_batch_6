@@ -9,4 +9,7 @@ while start >= 0 and user_input[start] == " ":
     start -= 1
 
 # Remove substring
+result = user_input[:start + 1]
+
 # Print the result
+print(result)
