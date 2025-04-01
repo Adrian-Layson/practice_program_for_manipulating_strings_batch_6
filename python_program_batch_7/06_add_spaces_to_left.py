@@ -1,4 +1,4 @@
-# Ask user for input
+# Ask user for input and desired width
 user_input = input("Enter your text: ")
 width = int(input("Enter the width: "))
 
