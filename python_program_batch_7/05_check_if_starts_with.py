@@ -2,7 +2,7 @@
 user_input = input("Enter a text: ")
 prefix_check = input("Enter the prefix to be checked: ")
 
-# Check prefix
+# Check the prefix
 if not prefix_check:
     result = True
 else:
