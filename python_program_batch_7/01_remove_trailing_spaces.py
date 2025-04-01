@@ -8,7 +8,7 @@ start = len(user_input) - 1
 while start >= 0 and user_input[start] == " ":
     start -= 1
 
-# Remove substring
+# Remove the substring
 result = user_input[:start + 1]
 
 # Print the result

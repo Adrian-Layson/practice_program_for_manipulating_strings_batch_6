@@ -2,7 +2,7 @@
 user_input = input("Enter your text: ")
 suffix_remover = input("Suffix to remove: ")
 
-# Check if input ends with the suffix 
+# Check if the input ends with the suffix 
 if user_input.endswith(suffix_remover):
     result = user_input[:-len(suffix_remover)] 
 else:

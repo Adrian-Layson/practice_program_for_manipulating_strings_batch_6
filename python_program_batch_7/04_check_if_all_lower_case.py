@@ -1,7 +1,7 @@
 # Ask user for input
 user_input = input("Enter your text: ")
 
-# Initialize
+# Initialize the checker
 if_lower = True
 
 # Loop through every characters
