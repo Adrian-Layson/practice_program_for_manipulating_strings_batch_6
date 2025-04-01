@@ -9,3 +9,4 @@ else:
     result = user_input
 
 # Print the result
+print(result)
