@@ -1,4 +1,4 @@
-# Ask user for input and text to find
+# Ask user for input and character to find
 user_input = input("Enter your text: ")
 target_character = input("Enter the character to find: ")
 
