@@ -2,14 +2,14 @@
 user_input = input("Enter your text: ")
 
 # Initialize 
-output = ""
+result = ""
 
 # Loop through every characters
 for character in user_input:
     if "a" <= character <= "z":
-        output += chr(ord(character) - 32)
+        result += chr(ord(character) - 32)
     else:
-        output += character
+        result += character
 
-# Print
-print(output)
+# Print the result
+print(result)

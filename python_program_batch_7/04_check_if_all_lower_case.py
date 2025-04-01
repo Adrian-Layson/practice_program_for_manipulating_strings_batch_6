@@ -11,5 +11,5 @@ for character in user_input:
         break
 
 
-# Print
+# Print the result
 print(if_lower)
